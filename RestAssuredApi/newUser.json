@@ -1,0 +1,13 @@
+{ 
+	"email":"rahul@gmail.com",
+	"firstName":"Rahul1",
+	"lastName":"Arora1",
+	"mobile":[2323232,232322],
+	"address":{ 
+		"flatNo":"A-131",
+		"city":"New Delhi",
+		"State":"Delhi"
+	}
+
+
+}
